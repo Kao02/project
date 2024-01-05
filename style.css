@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(205, 145, 170);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(243, 8, 8);
+    margin-top: 5%;
+}
+
+img{
+    height: 60%;
+    width: 60%;
+    border-radius: 30% 0;
+    border: solid 2px;
+
+}
+p{
+    color: rgb(14, 15, 15);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.gif{
+    height: 40%;
+    width: 40%;
+    border-radius: 0 20%;
+    border: dotted 4px;
+    color: green;
+}
+h1{
+    font-size: 2em;
+    text-align: center;
+    color: blue;
+    margin: 15px 0;
+}
